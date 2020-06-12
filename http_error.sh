@@ -1,7 +1,8 @@
+#!/bin/bash
+#Author:bearchess
+
 url=http://www.baidu.com #访问网址
-
 dingdinghook=#钉钉机器人 webhook
-
 mailList=(
 test@qq.cn
 ) #邮件列表
